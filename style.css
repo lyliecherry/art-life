@@ -1,0 +1,21 @@
+h1 {
+ color:purple;
+ font-family: helvetica;
+}
+img{
+ border: 10px solid black;
+ width:350px;
+ margin: 25px;
+}
+
+.pink {
+ color: #be95c4;	
+}
+ 
+body{
+background-color:#ffdab9;	
+}
+.card {
+display:flex;
+gaps:16px;	
+}
